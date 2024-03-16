@@ -1,12 +1,11 @@
 import 'package:flutter/material.dart';
 
-import 'package:add_2_calendar/add_2_calendar.dart';
+import 'package:add_2_calendar_new/add_2_calendar_new.dart';
 
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
-  final GlobalKey<ScaffoldMessengerState> scaffoldMessengerKey =
-      GlobalKey<ScaffoldMessengerState>();
+  final GlobalKey<ScaffoldMessengerState> scaffoldMessengerKey = GlobalKey<ScaffoldMessengerState>();
 
   Event buildEvent({Recurrence? recurrence}) {
     return Event(
@@ -79,8 +78,7 @@ class MyApp extends StatelessWidget {
             Divider(),
             ListTile(
               title: const Text('Add event with recurrence 3'),
-              subtitle:
-                  const Text("RRULE (android only) every year for 10 years"),
+              subtitle: const Text("RRULE (android only) every year for 10 years"),
               trailing: Icon(Icons.calendar_today),
               onTap: () {
                 Add2Calendar.addEvent2Cal(buildEvent(

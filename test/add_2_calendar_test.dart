@@ -1,9 +1,9 @@
 // import 'package:flutter/services.dart';
 // import 'package:flutter_test/flutter_test.dart';
-// import 'package:add_2_calendar/add_2_calendar.dart';
+// import 'package:add_2_calendar_new/add_2_calendar_new.dart';
 
 // void main() {
-//   const MethodChannel channel = MethodChannel('add_2_calendar');
+//   const MethodChannel channel = MethodChannel('add_2_calendar_new');
 
 //   TestWidgetsFlutterBinding.ensureInitialized();
 

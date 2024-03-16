@@ -1,4 +1,4 @@
-group 'com.javih.add_2_calendar'
+group 'com.javih.add_2_calendar_new'
 version '1.0-SNAPSHOT'
 
 buildscript {

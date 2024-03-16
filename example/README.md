@@ -1,6 +1,6 @@
-# add_2_calendar_example
+# add_2_calendar_new_example
 
-Demonstrates how to use the add_2_calendar plugin.
+Demonstrates how to use the add_2_calendar_new plugin.
 
 ## Getting Started
 

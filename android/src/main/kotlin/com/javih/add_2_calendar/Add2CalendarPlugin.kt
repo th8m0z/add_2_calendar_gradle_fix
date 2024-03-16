@@ -1,4 +1,4 @@
-package com.javih.add_2_calendar
+package com.javih.add_2_calendar_new
 
 import android.app.Activity
 import android.content.Context
@@ -30,7 +30,7 @@ class Add2CalendarPlugin : FlutterPlugin, MethodCallHandler, ActivityAware {
 
     override fun onAttachedToEngine(@NonNull flutterPluginBinding: FlutterPlugin.FlutterPluginBinding) {
         context = flutterPluginBinding.applicationContext
-        channel = MethodChannel(flutterPluginBinding.binaryMessenger, "add_2_calendar")
+        channel = MethodChannel(flutterPluginBinding.binaryMessenger, "add_2_calendar_new")
         channel.setMethodCallHandler(this)
     }
 

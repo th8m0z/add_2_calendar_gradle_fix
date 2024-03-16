@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:add_2_calendar/src/model/recurrence.dart';
+import 'package:add_2_calendar_new/src/model/recurrence.dart';
 
 /// Class that holds each event's info.
 class Event {

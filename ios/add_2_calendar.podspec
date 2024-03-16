@@ -1,9 +1,9 @@
 #
 # To learn more about a Podspec see http://guides.cocoapods.org/syntax/podspec.html.
-# Run `pod lib lint add_2_calendar.podspec` to validate before publishing.
+# Run `pod lib lint add_2_calendar_new.podspec` to validate before publishing.
 #
 Pod::Spec.new do |s|
-  s.name             = 'add_2_calendar'
+  s.name             = 'add_2_calendar_new'
   s.version          = '0.0.1'
   s.summary          = 'A new flutter plugin project.'
   s.description      = <<-DESC
