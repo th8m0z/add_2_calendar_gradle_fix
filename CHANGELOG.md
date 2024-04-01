@@ -1,3 +1,11 @@
+## 1.0.3
+
+* Correct android implementation
+
+## 1.0.2
+
+* Correct podspec issue on iOS
+
 ## 1.0.1
 
 * READ ME update
