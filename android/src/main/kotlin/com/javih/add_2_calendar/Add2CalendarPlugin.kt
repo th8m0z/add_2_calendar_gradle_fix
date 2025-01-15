@@ -1,4 +1,4 @@
-package com.javih.add_2_calendar_new
+package com.javih.add_2_calendar
 
 import android.app.Activity
 import android.content.Context
